@@ -1,0 +1,32 @@
+fieldset {
+    margin-bottom: 1em !important;
+    border: 1px solid #666 !important;
+    padding:10px !important;
+    margin: 20px 20px;
+}
+
+legend {
+    float:none;
+    width:auto;
+}
+
+.internal-fieldset {
+	 margin: 0;
+}
+
+.my-checkbox > label {
+	margin-right: 5px;
+}
+
+.external-elements {
+	margin: 20px 20px;
+}
+
+.horizontal-input {
+	display: inline-block;
+}
+
+body {
+	  background-image: linear-gradient(to right, #d2ffff, #0694c6);
+	  font-family: Trebuchet MS;
+}
